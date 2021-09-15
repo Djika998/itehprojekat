@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mata998:mata998@cluster0.oqwnu.mongodb.net/djika?retryWrites=true&w=majority",
+  "jsonWebTokenSecret": "helloWorld"
+}
